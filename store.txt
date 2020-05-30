@@ -1,0 +1,13 @@
+items
+Id	Name		Expire	Company	Year	Type of items
+hh1	iphone 11		2025	apple	2019	phone
+hh2	iphone x		2023	apple	2017	phone
+hh3	toyota		2028	apple	2015	phone
+hh4	Camry		2030	toyota	2013	car
+hh5	Galaxy note 8		2018	samsung	2016	phone
+hh6	mi 6x		2024	xiaomi	2018	phone
+Type of items
+phone
+car
+pen
+book
